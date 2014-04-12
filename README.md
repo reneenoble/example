@@ -7,3 +7,7 @@
 **bold**
 
 normal typing
+
+~~~~~~~~python
+print "hello"
+~~~~~~~~
